@@ -1,0 +1,12 @@
+beautifulsoup4
+chromadb
+dotenv
+langchain
+langchain-classic
+langchain_community
+langchain_core
+langchainhub
+langchain_google_genai
+langchain_huggingface
+python-dotenv
+sentence_transformers
