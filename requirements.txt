@@ -5,6 +5,7 @@ langchain
 langchain-classic
 langchain_community
 langchain_core
+langchain_openai
 langchainhub
 langchain_google_genai
 langchain_huggingface
